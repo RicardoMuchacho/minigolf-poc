@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #0a0a0a;
+  --foreground: #ffffff;
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+}
+
+@layer utilities {
+  .text-glow {
+    text-shadow: 0 0 10px currentColor, 0 0 20px currentColor, 0 0 30px currentColor;
+  }
+
+  .text-glow-pink {
+    text-shadow: 0 0 10px #FF10F0, 0 0 20px #FF10F0, 0 0 40px #FF10F0, 0 0 80px #FF10F0;
+  }
+
+  .text-glow-blue {
+    text-shadow: 0 0 10px #00F0FF, 0 0 20px #00F0FF, 0 0 40px #00F0FF, 0 0 80px #00F0FF;
+  }
+
+  .text-glow-green {
+    text-shadow: 0 0 10px #39FF14, 0 0 20px #39FF14, 0 0 40px #39FF14, 0 0 80px #39FF14;
+  }
+
+  .border-glow {
+    box-shadow: 0 0 5px currentColor, 0 0 10px currentColor, inset 0 0 5px currentColor;
+  }
+
+  .neon-card {
+    @apply border-2 border-neon-pink bg-black/50 backdrop-blur-sm shadow-neon-pink;
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "hero": {
+    "title": "Puttfun Barcelona",
+    "subtitle": "La reimaginación del minigolf",
+    "description": "18 hoyos de diversión con temática moderna, luces de neón, obstáculos creativos y tecnología de última generación",
+    "cta": "Reserva Ahora"
+  },
+  "nav": {
+    "home": "Inicio",
+    "about": "Nosotros",
+    "features": "Experiencia",
+    "contact": "Contacto"
+  },
+  "about": {
+    "title": "¿Por Qué un Minigolf?",
+    "story": "Recientemente viajé a otras ciudades de España y pude disfrutar de un minigolf con amigos y familia. Cuando regresé a Barcelona no había... ¿Cómo puede ser que en la segunda ciudad más importante de España no haya?",
+    "vision": "Nuestra Visión",
+    "visionText": "Reimaginación del minigolf, combinación de tecnología y hoyos creativos para una experiencia refrescante y divertida para todas las edades."
+  },
+  "features": {
+    "title": "Una Experiencia Única",
+    "feature1": {
+      "title": "18 Hoyos Creativos",
+      "description": "Cada hoyo es una aventura única con obstáculos innovadores y desafiantes"
+    },
+    "feature2": {
+      "title": "Luces de Neón",
+      "description": "Ambiente vibrante con iluminación LED y efectos visuales espectaculares"
+    },
+    "feature3": {
+      "title": "Tecnología Integrada",
+      "description": "Sistema de puntuación digital y efectos interactivos en cada hoyo"
+    },
+    "feature4": {
+      "title": "Para Todas las Edades",
+      "description": "Diversión garantizada para familias, amigos y eventos corporativos"
+    }
+  },
+  "contact": {
+    "title": "Encuéntranos",
+    "address": "Barcelona, España",
+    "hours": "Abierto todos los días",
+    "email": "info@puttfunbarcelona.com",
+    "phone": "+34 XXX XXX XXX"
+  },
+  "footer": {
+    "rights": "© 2024 Puttfun Barcelona. Todos los derechos reservados."
+  }
+}

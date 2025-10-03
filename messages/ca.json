@@ -1,0 +1,49 @@
+{
+  "hero": {
+    "title": "Puttfun Barcelona",
+    "subtitle": "La reimaginació del minigolf",
+    "description": "18 forats de diversió amb temàtica moderna, llums de neó, obstacles creatius i tecnologia d'última generació",
+    "cta": "Reserva Ara"
+  },
+  "nav": {
+    "home": "Inici",
+    "about": "Nosaltres",
+    "features": "Experiència",
+    "contact": "Contacte"
+  },
+  "about": {
+    "title": "Per Què un Minigolf?",
+    "story": "Recentment vaig viatjar a altres ciutats d'Espanya i vaig poder gaudir d'un minigolf amb amics i família. Quan vaig tornar a Barcelona no n'hi havia... Com pot ser que a la segona ciutat més important d'Espanya no n'hi hagi?",
+    "vision": "La Nostra Visió",
+    "visionText": "Reimaginació del minigolf, combinació de tecnologia i forats creatius per a una experiència refrescant i divertida per a totes les edats."
+  },
+  "features": {
+    "title": "Una Experiència Única",
+    "feature1": {
+      "title": "18 Forats Creatius",
+      "description": "Cada forat és una aventura única amb obstacles innovadors i desafiants"
+    },
+    "feature2": {
+      "title": "Llums de Neó",
+      "description": "Ambient vibrant amb il·luminació LED i efectes visuals espectaculars"
+    },
+    "feature3": {
+      "title": "Tecnologia Integrada",
+      "description": "Sistema de puntuació digital i efectes interactius a cada forat"
+    },
+    "feature4": {
+      "title": "Per a Totes les Edats",
+      "description": "Diversió garantida per a famílies, amics i esdeveniments corporatius"
+    }
+  },
+  "contact": {
+    "title": "Troba'ns",
+    "address": "Barcelona, Espanya",
+    "hours": "Obert tots els dies",
+    "email": "info@puttfunbarcelona.com",
+    "phone": "+34 XXX XXX XXX"
+  },
+  "footer": {
+    "rights": "© 2024 Puttfun Barcelona. Tots els drets reservats."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "hero": {
+    "title": "Puttfun Barcelona",
+    "subtitle": "The Reimagination of Minigolf",
+    "description": "18 holes of fun with modern theming, neon lights, creative obstacles and cutting-edge technology",
+    "cta": "Book Now"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "features": "Experience",
+    "contact": "Contact"
+  },
+  "about": {
+    "title": "Why a Minigolf?",
+    "story": "I recently traveled to other cities in Spain and enjoyed minigolf with friends and family. When I returned to Barcelona there wasn't one... How can it be that the second most important city in Spain doesn't have one?",
+    "vision": "Our Vision",
+    "visionText": "Reimagining minigolf, combining technology and creative holes for a refreshing and fun experience for all ages."
+  },
+  "features": {
+    "title": "A Unique Experience",
+    "feature1": {
+      "title": "18 Creative Holes",
+      "description": "Each hole is a unique adventure with innovative and challenging obstacles"
+    },
+    "feature2": {
+      "title": "Neon Lights",
+      "description": "Vibrant atmosphere with LED lighting and spectacular visual effects"
+    },
+    "feature3": {
+      "title": "Integrated Technology",
+      "description": "Digital scoring system and interactive effects on every hole"
+    },
+    "feature4": {
+      "title": "For All Ages",
+      "description": "Guaranteed fun for families, friends and corporate events"
+    }
+  },
+  "contact": {
+    "title": "Find Us",
+    "address": "Barcelona, Spain",
+    "hours": "Open every day",
+    "email": "info@puttfunbarcelona.com",
+    "phone": "+34 XXX XXX XXX"
+  },
+  "footer": {
+    "rights": "© 2024 Puttfun Barcelona. All rights reserved."
+  }
+}
